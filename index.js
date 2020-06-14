@@ -15,14 +15,14 @@ const createFareMultiplier = function(array) {
   return array.slice(-2);
 }
 
-const returnLastTwoDrivers = function(array) {
+const fareDoubler = function(array) {
   return array.slice(-2);
 }
 
-const returnLastTwoDrivers = function(array) {
+const fareTripler = function(array) {
   return array.slice(-2);
 }
 
-const returnLastTwoDrivers = function(array) {
+const selectDifferentDrivers = function(array) {
   return array.slice(-2);
 }
