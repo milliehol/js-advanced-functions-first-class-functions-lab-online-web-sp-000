@@ -17,8 +17,7 @@ const createFareMultiplier = function(number) {
   };
 }
 
-const fareDoubler = function(array) {
-  return array.slice(-2);
+const fareDoubler = 
 }
 
 const fareTripler = function(array) {
