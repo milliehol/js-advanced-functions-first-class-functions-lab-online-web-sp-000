@@ -7,7 +7,7 @@ const returnLastTwoDrivers = function(array) {
   return array.slice(-2);
 }
 
-const returnLastTwoDrivers = function(array) {
+const selectingDrivers = function(array) {
   return array.slice(-2);
 }
 
